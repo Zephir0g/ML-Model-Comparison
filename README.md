@@ -10,7 +10,7 @@ This project compares different machine learning models on the Titanic survival 
 * **.gitignore**: This file tells git which files (or patterns) it should ignore.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your_username/ML_project.git`
+1. Clone the repository: `git clone https://github.com/Zephir0g/ML_project.git`
 2. Navigate into the project directory: `cd ML_project/src`
 3. Run the Python script to train and evaluate the classifiers: `python classifiers.py`
 
@@ -31,5 +31,7 @@ Please note that the results may vary each time the script is run, due to the in
 
 This project is perfect for beginners in machine learning, as it provides a clear comparison between different types of classifiers on a well-known dataset. Enjoy exploring and expanding it!
 
-## Author
+## Authors
 [Zephir0g (Bohdan Sukhovarov)](https://github.com/Zephir0g)
+
+[Cyandide Toxicity (Mikhail Semenov)](#)
