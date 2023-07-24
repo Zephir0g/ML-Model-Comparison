@@ -10,7 +10,7 @@ This project compares different machine learning models on the Titanic survival 
 * **.gitignore**: This file tells git which files (or patterns) it should ignore.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your_username/ML_project.git`
+1. Clone the repository: `git clone https://github.com/Zephir0g/ML_project.git`
 2. Navigate into the project directory: `cd ML_project/src`
 3. Run the Python script to train and evaluate the classifiers: `python classifiers.py`
 
