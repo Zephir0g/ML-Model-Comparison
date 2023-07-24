@@ -30,9 +30,9 @@ class KNN:
         return most_common[0][0]
 
 #load train and test datasets
-train_df = pd.read_csv('train.csv')
-test_df = pd.read_csv('test.csv')
-y_test_df = pd.read_csv('gender_submission.csv')
+train_df = pd.read_csv('dataset/train.csv')
+test_df = pd.read_csv('dataset/test.csv')
+y_test_df = pd.read_csv('dataset/gender_submission.csv')
 
 #preprocess the data
 def preprocess_data(df):
