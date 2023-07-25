@@ -34,4 +34,4 @@ This project is perfect for beginners in machine learning, as it provides a clea
 ## Authors
 [Zephir0g (Bohdan Sukhovarov)](https://github.com/Zephir0g)
 
-[Cyandide Toxicity (Mikhail Semenov)](#)
+[Cyandide Toxicity (Mikhail Semenov)](https://github.com/velialgui)
