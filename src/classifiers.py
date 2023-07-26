@@ -67,6 +67,7 @@ svm_classifier.fit(X_train, y_train)
 logistic_regression.fit(X_train, y_train)
 knn_classifier.fit(X_train, y_train)
 knn_custom.fit(X_train, y_train)
+# this part of code is used to train classifiers on the training dataset
 
 #make predictions
 y_pred_decision_tree = decision_tree.predict(X_test)
@@ -100,8 +101,8 @@ plt.ylim([0.0, 1.05])
 plt.xlabel('False Positive Rate')
 plt.ylabel('True Positive Rate')
 plt.title('Receiver Operating Characteristic')
-plt.legend(loc="lower right")
-plt.show()
+plt.legend(loc="lower right") # add legend, legend is a box that describes the elements of the plot
+plt.show() # show ROC curve
 # lines 97-104 are used to plot ROC curve for each model and calculate AUC
 
 # Bohdan. As a group member, I was working on lines (1-62), mainly focusing on implementing the K-Nearest Neighbors (KNN) classifier from scratch.
