@@ -116,3 +116,5 @@ plt.show() # show ROC curve
 # After successfully training each model on the preprocessed training data, I made predictions using the test data. I then evaluated the performance of each model by calculating their respective accuracy scores.
 # As the final part of my work, I computed and plotted the Receiver Operating Characteristic (ROC) curve and calculated the Area Under the Curve (AUC) for each model,
 # which provided a comprehensive view of the performance of all our models.
+
+# see our GitHub -> https://github.com/Zephir0g/ML-Model-Comparison
